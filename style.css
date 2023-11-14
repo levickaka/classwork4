@@ -1,5 +1,5 @@
 body {
-    background-color: brown;
+    background-color: red;
 }
 
 h1 {
@@ -7,10 +7,10 @@ h1 {
 }
 
 .head1 {
-    background-color: aquamarine;
+    background-color: white;
 }
 
 #head2 {
-    background-color: mediumblue;
-    color: aliceblue;
+    background-color: green;
+    color: purple;
 }
